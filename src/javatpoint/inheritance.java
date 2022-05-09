@@ -1,4 +1,4 @@
-package javatest;
+package javatpoint;
 
 class Animal
 {

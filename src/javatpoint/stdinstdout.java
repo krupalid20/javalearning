@@ -1,4 +1,4 @@
-package javatest;
+package javatpoint;
 import java.util.*;
 public class stdinstdout {
 

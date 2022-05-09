@@ -1,4 +1,4 @@
-package javatest;
+package javatpoint;
 
 public class signum {
 		    public static void main(String[] args)   

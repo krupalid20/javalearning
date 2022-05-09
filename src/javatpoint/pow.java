@@ -1,4 +1,4 @@
-package javatest;
+package javatpoint;
 
 public class pow {  
 		    public static void main(String[] args)   

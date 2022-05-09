@@ -1,7 +1,7 @@
 //Overflow
-package javatest;
+package javatpoint;
 
-public class overflow {  
+public class Overflow {  
 			public static void main(String[] args){  
 			//Overflow  
 			int a=130;  

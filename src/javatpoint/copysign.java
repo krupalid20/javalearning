@@ -1,4 +1,4 @@
-package javatest;
+package javatpoint;
 
 public class copysign {
 

@@ -1,7 +1,7 @@
 //Unary Operator
-package javatest;
+package javatpoint;
 
-public class unaryoperator {
+public class UnaryOperator {
 			public static void main(String args[]){  
 			int x=10;  
 			System.out.println(x++);//10 (11)  

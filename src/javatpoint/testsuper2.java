@@ -1,4 +1,4 @@
-package javatest;
+package javatpoint;
 
 		// TODO Auto-generated method stub
 		class Animal2 
