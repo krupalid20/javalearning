@@ -1,12 +1,10 @@
 package javatpoint;
 
-import java.util.*;
+//import java.util.*;
 
 public class ifelsehackerrank {
 
 
-
-    private static final Scanner sc= new Scanner(System.in);
 
     public static void main(String[] args) {
     	   	

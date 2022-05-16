@@ -1,6 +1,6 @@
 package javatpoint;
 import java.util.*;
-import java.io.*;
+//import java.io.*;
 
 public class javaloop2 {
 

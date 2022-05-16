@@ -1,6 +1,6 @@
 package javatpoint;
 import java.util.*;
-import java.security.*;
+//import java.security.*;
 
 public class InttoString {
 
@@ -38,7 +38,7 @@ public class InttoString {
 		 }
 
 		 public static void forbidExit() {
-		  final SecurityManager securityManager = new SecurityManager() {
+		  /*final SecurityManager securityManager = new SecurityManager() {
 		   @Override
 		   public void checkPermission(Permission permission) {
 		    if (permission.getName().contains("exitVM")) {
@@ -46,7 +46,7 @@ public class InttoString {
 		    }
 		   }
 		  };
-		  System.setSecurityManager(securityManager);
+		  System.setSecurityManager(securityManager);*/
 		 }
 		}
 

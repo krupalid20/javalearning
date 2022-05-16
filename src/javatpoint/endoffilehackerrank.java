@@ -1,6 +1,9 @@
 package javatpoint;
-import java.io.*;
-import java.util.*;
+
+import java.util.Scanner;
+
+//import java.io.*;
+//import java.util.*;
 
 public class endoffilehackerrank {
 

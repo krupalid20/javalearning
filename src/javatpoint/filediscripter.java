@@ -1,4 +1,4 @@
-package javatpoint;
+package javatest;
 import java.io.*;
 
 public class filediscripter {

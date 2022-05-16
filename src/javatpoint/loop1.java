@@ -1,11 +1,14 @@
 package javatpoint;
-import java.io.*;
+
+import java.util.Scanner;
+
+/*import java.io.*;
 import java.util.*;
 import java.math.*;
 import java.security.*;
 import java.text.*;
 import java.util.concurrent.*;
-import java.util.regex.*;
+import java.util.regex.*;*/
 
 
 public class loop1 {
